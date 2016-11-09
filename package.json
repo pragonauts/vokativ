@@ -7,7 +7,6 @@
     "test": "node ./node_modules/mocha/bin/mocha"
   },
   "author": "David Menger",
-  "readme": "README.md",
   "repository": {
     "type": "git"
   },
