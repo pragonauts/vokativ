@@ -1,0 +1,21 @@
+{
+  "name": "vokativ",
+  "version": "1.0.0",
+  "description": "Port of Python vocativ library for Czech language",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "David Menger",
+  "readme": "README.md",
+  "repository": {
+    "type": "git"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "pickle": "^0.2.0"
+  }
+}
