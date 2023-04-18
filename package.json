@@ -4,7 +4,8 @@
   "description": "Port of Python vocativ library for Czech language",
   "main": "index.js",
   "scripts": {
-    "test": "eslint . && mocha"
+    "test": "eslint . && mocha",
+    "prepublishOnly": "npm test"
   },
   "author": "David Menger",
   "repository": {
