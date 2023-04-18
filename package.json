@@ -10,6 +10,12 @@
     ".compile": "tsc --project ."
   },
   "author": "David Menger",
+  "contributors": [
+    {
+      "name": "Martin Jurča",
+      "email": "martin.jurca@firma.seznam.cz"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:pragonauts/vokativ.git"
