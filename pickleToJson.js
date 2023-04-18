@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 
 const pickle = require('pickle');
 const fs = require('fs');

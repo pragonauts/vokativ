@@ -16,7 +16,7 @@ function readTest (file, callback, onClose) {
 
     rl.on('line', (line) => {
         callback(...line.split(' '));
-    }).on('close', onClose);;
+    }).on('close', onClose);
 }
 
 
