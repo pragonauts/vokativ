@@ -4,7 +4,7 @@
   "description": "Port of Python vocativ library for Czech language",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "eslint . && mocha"
   },
   "author": "David Menger",
   "repository": {
@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
+    "eslint": "^8.38.0",
     "mocha": "^10.2.0",
     "pickle": "^0.2.0"
   }
