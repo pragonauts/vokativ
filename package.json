@@ -8,7 +8,8 @@
   },
   "author": "David Menger",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git@github.com:pragonauts/vokativ.git"
   },
   "license": "MIT",
   "dependencies": {},
